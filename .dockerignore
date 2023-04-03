@@ -1,0 +1,16 @@
+.gitignore
+.dockerignore
+Dockerfile
+.idea/
+__pycache__/
+.git
+.env
+venv/
+.gitlab-ci.yml
+README.md
+
+# Celery stuff
+celerybeat-schedule.db
+
+# Database
+docker/database/
